@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-06-08T19:50:14+10:00"
+      "last_modified": "2022-06-08T19:57:34+10:00"
     },
     {
       "path": "index.html",
       "title": "HDS Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-06-08T19:50:21+10:00"
+      "last_modified": "2022-06-08T19:57:41+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
